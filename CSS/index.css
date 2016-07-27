@@ -54,6 +54,18 @@ section {
 	line-height: 2em;
 }
 
+#title-bar{
+	padding: 0;
+	margin: 0;
+	height: 80px;
+	background:  #1caa98;
+	color: white;
+}
+
+#title-bar h1{
+	margin-bottom: 20px;
+}
+
 footer {
 	background-color: darkgrey;
 	color: white;
